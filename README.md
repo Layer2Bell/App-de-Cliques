@@ -1,2 +1,3 @@
 # App-de-Cliques
 Esta aplicação web foi desenvolvida para registar as interações dos utilizadores através de quatro botões. Sempre que um botão é clicado, o sistema identifica o botão selecionado e regista automaticamente a data, a hora e um número sequencial diário, que reinicia a cada novo dia. Todas as informações são armazenadas numa base de dados, garantindo que os dados se mantêm mesmo após a atualização da página. O desenvolvimento e os testes da aplicação foram realizados na plataforma Replit, permitindo que o site esteja acessível através de um link público. A interface é simples, clara e responsiva, funcionando corretamente em diferentes dispositivos.
+Link do Site: https://instructions-tracker--sharko6794.replit.app
